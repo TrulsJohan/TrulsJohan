@@ -13,7 +13,6 @@ NorseBee Sail & Ski: A website for guided alphine trips.
 ### 🌱 Learning & Growth
 Currently I am studying Frontend Development at Noroff School Of Technology And Digital Media, but are also trying to focus on UX & UI design.
 
-
 ### 📫 How to reach me
 Email: truls@myst83.com
 
@@ -22,5 +21,5 @@ Email: truls@myst83.com
 ### 🎨 Design & Creativity
 I enjoy working on design projects in my spare time, as I still have a lot to learn in that front aswell.
 
-🤝 Let's Connect!
+### 🤝 Let's Connect!
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me!
