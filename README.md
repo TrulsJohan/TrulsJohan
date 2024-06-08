@@ -1,16 +1,29 @@
-## Hi there 👋
+Hi there, I'm Truls Johan 👋
 
-<!--
-**TrulsJohan/TrulsJohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate front-end developer with experience in creating beautiful and functional websites. I love building things that make a difference, whether it's through code, design, or collaboration.
 
-Here are some ideas to get you started:
+🛠️ Technologies & Tools
+Languages: HTML, CSS, JavaScript
+Tools: Git, Figma
+🔭 Current Projects
+Project Name: Brief description of what the project does.
+Project Name: Brief description of what the project does.
+🌱 Learning & Growth
+Currently exploring:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React
+UX/UI Design
+📈 GitHub Stats
+
+📫 How to reach me
+LinkedIn
+Twitter
+Email
+📝 Latest Blog Posts
+Blog Post Title: Brief description of the blog post.
+Blog Post Title: Brief description of the blog post.
+🎨 Design & Creativity
+I enjoy working on design projects in my spare time. Check out my Dribbble for more.
+
+🤝 Let's Connect!
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to connect with me!
