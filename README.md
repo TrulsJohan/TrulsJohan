@@ -1,6 +1,6 @@
 # Hi there, I'm Truls Johan 👋
 
-I'm a passionate front-end developer with experience in creating beautiful and functional websites. I love building things that make a difference, whether it's through code, design, or collaboration.
+I'm a passionate front-end developer with experience in creating beautiful and functional websites. I love building consecpt designs, whether it's through figma, code, or collaboration.
 
 ## 🛠️ Technologies & Tools
 - Languages: HTML, CSS, JavaScript
